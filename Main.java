@@ -6,10 +6,11 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("=== Book Exchange System Initialized ===");
-        // TODO: เขียน Loop เมนูตรงนี้ (ให้คนที่ 5 ทำ)
+        // TODO: เขียน Loop เมนูตรงนี้ 
         
         // Example test
         // User u1 = new User("u1", "Somchai", "1234", "081-xxx");
         // system.registerUser(u1);
     }
+
 }
